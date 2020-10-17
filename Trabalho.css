@@ -1,0 +1,200 @@
+body{
+    margin:0;
+}
+.topo{
+    background-color: red; 
+    height:150px;
+   
+    
+}
+.consertartrainee{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width:80px;
+    margin:0 20px;
+}
+
+.trainee{
+    text-align: center;
+    margin-top: 18px;
+    color: white;
+    font-weight:bold;
+    
+}
+.icones{
+    font-size:20px;
+    color:white;
+}
+.fa-sign-out{
+    margin:0 10px;
+}
+.frango{
+    border-radius: 50%;
+    height:110px;
+    width: 110px;
+}
+.frangodiv{
+    display: flex;
+    justify-content:center;
+    
+}
+.words{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+.equipe{
+    width: 80px;
+    font-weight: bold;
+}
+.pokedex{
+    width: 80px;
+    color:red;
+    font-weight: bold;
+
+}
+.amigos{
+    width: 80px;
+    font-weight: bold;
+}
+.hist{
+    font-weight: bold;
+}
+input{
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+.resolve{
+    display:flex;
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.borda1{
+    border:1px solid red;
+    display: flex;
+    padding: 10px;    
+    justify-content: space-around;
+    width: 300px;
+    box-shadow:1px 1px gray ;
+}
+.borda2{
+    border:1px solid red;
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    width: 300px;
+    box-shadow:1px 1px gray ;
+    
+}
+.borda3{
+    border:1px solid red;
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    width: 300px;
+    box-shadow:1px 1px gray ;
+}
+.borda4{
+    border:1px solid red;
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    width: 300px;
+    box-shadow:1px 1px gray ;
+}
+.borda5{
+    border:1px solid red;
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    width: 300px;
+    box-shadow:1px 1px gray ;
+}
+.borda6{
+    border:1px solid red;
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    width: 300px;
+    box-shadow:1px 1px 1px 1px gray ;
+}
+.pokemon1{
+    margin-top: 50px;
+    column-count: 3;
+    column-gap:40px;
+    margin-left: 40px;
+    margin-right: 40px;
+ }
+ .pokemon2{
+    margin-top: 50px;
+    column-count: 3;
+    column-gap:40px;
+    margin-left: 40px;
+    margin-right: 40px;
+ }
+ 
+.ditto{
+    height: 80px;
+    
+}
+.bulba{
+    height: 80px;
+}
+.normal{
+    background-color: gray;
+    color:white;
+    border-radius: 4px;
+    padding:3px;
+    font-size: 12px;
+    text-align: center;
+    
+}
+.grasspoison{
+    background-color: purple;
+    color:white;
+    border-radius: 4px;
+    padding:3px;
+    font-size: 12px;
+    text-align: center;
+    
+}
+.grass{
+    background-color:greenyellow;
+    color:white;
+    border-radius: 4px;
+    padding:3px;
+    font-size: 12px;
+    text-align: center;
+
+}
+.central{
+    margin-top: 20px;
+    font-size:20px ;
+    display: flex;
+    justify-content: center;
+
+}
+.um{
+    background-color:red;
+    border-radius: 50%;
+    color:white;
+    width: 25px;
+    text-align: center;
+    
+    
+}
+.dois{
+    color:red;
+    width: 30px;
+}
+.ponto{
+    color:red;
+    width: 30px;
+}
+.tres{
+    color:red;
+    width: 30px;
+}
